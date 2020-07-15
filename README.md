@@ -13,13 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-
 - 🌈 I'm currently working on ... 😎
 - 🐳 I’m currently learning go\k8s source code. 😅
 - 🤔 I'm thinking about how to make more more money 😁.
 - 💬 Ask me about `lao biao`
 - 📫 How to reach me: [ysicing.me](https://ysicing.me) 
 
-**cool**
+-->
+
+- 😭 这个人菜死了，请你带带他
+- 😭😭 I am too weak. Please help me.
+- 😭😭😭 How to reach me: [ysicing.me](https://ysicing.me) 
+

@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 😭 这个人菜死了，请你带带他
-- 😭😭 I am too weak. Please help me.
-- 😭😭😭 How to reach me: [ysicing.me](https://ysicing.me) 
+😭 这个人菜死了，请你带带他.</br>
+😭😭 I am too weak. Please help me.</br>
+😭😭😭 How to reach me: <b>[ysicing.me](https://ysicing.me)</b></br>
 

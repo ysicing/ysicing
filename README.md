@@ -21,9 +21,16 @@ Here are some ideas to get you started:
 
 -->
 
-😭 这个人菜死了，请你带带他.</br>
-😭😭 I am too weak. Please help me.</br>
-😭😭😭 How to reach me: mail [NFAHS43JMNUW4ZZONVSQU===](mailto:i@ysicing.me) or blog [ysicing.me](https://ysicing.me) 
+😭    这个人菜死了，请你带带他.</br>
+😭😭   I am too weak. Please help me.</br>
+😭😭😭  How to reach me: mail [NFAHS43JMNUW4ZZONVSQU===](mailto:i@ysicing.me) or blog [ysicing.me](https://ysicing.me) 
 
 
 [![ysicing's github stats](https://github-readme-stats.vercel.app/api?username=ysicing&show_icons=true)](https://github.com/ysicing)
+
+
+> 🤔🤔🤔
+
+```
+brew tap ysicing/tap
+```

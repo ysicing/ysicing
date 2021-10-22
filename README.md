@@ -34,3 +34,6 @@ I am too weak. Please help me.</br>
 个人微信公众号: 缘生小助手(@ergobot)</br>
 个人效能工具: `brew tap ysicing/tap`</br>
 个人电报私聊机器人: [@HaHaYSBot](http://t.me/HaHaYSBot)</br>
+
+![](https://komarev.com/ghpvc/?username=ysicing&color=green)
+

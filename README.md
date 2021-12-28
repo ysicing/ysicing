@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I'm thinking about how to make more more money 😁.
 - 💬 Ask me about `lao biao`
 - 📫 How to reach me: mail [i@ysicing.me](mailto:i@ysicing.me) or blog [ysicing.me](https://ysicing.me) 
+- sponsor: [ysicing](https://sponsor.ysicing.net/)
 
 -->
 
@@ -34,6 +35,7 @@ I am too weak. Please help me.</br>
 个人微信公众号: 缘生小助手(@ergobot)</br>
 个人效能工具: `brew tap ysicing/tap`</br>
 个人电报私聊机器人: [@HaHaYSBot](http://t.me/HaHaYSBot)</br>
+赞助弟弟 [ysicing](https://sponsor.ysicing.net/)
 
 ![](https://komarev.com/ghpvc/?username=ysicing&color=green)
 

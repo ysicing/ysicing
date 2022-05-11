@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I'm thinking about how to make more more money 😁.
 - 💬 Ask me about `lao biao`
 - 📫 How to reach me: mail [i@ysicing.me](mailto:i@ysicing.me) or blog [ysicing.me](https://ysicing.me) 
-- sponsor: [ysicing](https://sponsor.ysicing.net/)
+- sponsor: [ysicing](https://afdian.net/@ysicing)
 
 -->
 

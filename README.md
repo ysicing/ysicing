@@ -34,7 +34,6 @@ I am too weak. Please help me.</br>
 个人网站: https://ysicing.me.</br>
 个人微信公众号: 缘生小助手(@ergobot)</br>
 个人效能工具: `brew tap ysicing/tap`</br>
-个人电报私聊机器人: [@HaHaYSBot](http://t.me/HaHaYSBot)</br>
 个人问题反馈邮箱:  [ysbot](mailto:ysbot@12306.work)最快一个工作日回复，如果记得看邮箱</br>
 赞助弟弟 [ysicing](https://sponsor.ysicing.net/)
 

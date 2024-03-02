@@ -39,6 +39,7 @@ func main() {
 		title := evt["title"].(string)
 		buf.WriteString("* " + " [" + title + "](" + url + ")\n")
 	}
+	buf.WriteString("*  [随便看看, 随机推荐](https://ysicing.me/random/)\n")
 	buf.WriteString("\n\n")
 	fmt.Println(buf.String())
 	readme, err := os.ReadFile("README.md")

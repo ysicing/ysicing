@@ -43,7 +43,7 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-03-02 08:30:48`
+每天自动刷新，最近更新时间：`2024-03-02 08:33:07`
 
 *  [NAT用户如何防邻居](https://ysicing.me/natvps-user-guide/v1)
 *  [广告 · 鸡仔云NAT新增AMD预售机,8C16G每年450起](https://ysicing.me/ad/bigchick-ipv6-vps-amd001e/v1)
@@ -52,7 +52,7 @@ I am too weak. Please help me.</br>
 *  [ZincSearch一款 Elasticsearch 的轻量级替代品](https://ysicing.me/tools/zincsearch/v1)
 *  [博客外链跳转到中间页](https://ysicing.me/site-jump-external-link/v1)
 *  [Wallos开源个人订阅追踪器](https://ysicing.me/tools/wallos/v1)
-*  [推荐*随便看看](https://ysicing.me/random/)
+*  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 
 <!--events end -->

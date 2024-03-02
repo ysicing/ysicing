@@ -43,7 +43,7 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-03-03 00:04:55`
+每天自动刷新，最近更新时间：`2024-03-03 01:05:05`
 
 *  [使用Cloudflare Tunnel 访问 k3s 集群服务](https://ysicing.me/cloudflare-tunnel-k3s/v1)
 *  [如今组网选择Headscale还是Tailscale](https://ysicing.me/tailscale_vs_headscale/v1)

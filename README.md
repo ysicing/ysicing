@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-03-09 08:15:37`
+每天自动刷新，最近更新时间：`2024-03-09 16:04:45`
 
+*  [Traefik全面使用指南：部署篇](https://ysicing.me/traefik/helm-deploy/v1)
 *  [博客入口Traefik升级引发的一系列故障](https://ysicing.me/blog-k3s-traefik-breakdown/v1)
 *  [个人Git超级备忘录](https://ysicing.me/git-cheatsheet/v1)
 *  [使用扣子训练一个自己博客的智能助手](https://ysicing.me/coze-ysbot/v1)
 *  [如何利用SB高效科学的屏蔽广告](https://ysicing.me/451/sb-tutorial/v1)
 *  [使用Cloudflare Tunnel 访问 k3s 集群服务](https://ysicing.me/cloudflare-tunnel-k3s/v1)
 *  [如今组网选择Headscale还是Tailscale](https://ysicing.me/tailscale_vs_headscale/v1)
-*  [NAT用户如何防邻居](https://ysicing.me/natvps-user-guide/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

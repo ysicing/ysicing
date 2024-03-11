@@ -43,7 +43,7 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-03-11 00:04:50`
+每天自动刷新，最近更新时间：`2024-03-11 08:16:57`
 
 *  [Traefik全面使用指南：部署篇](https://ysicing.me/traefik/helm-deploy/v1)
 *  [博客入口Traefik升级引发的一系列故障](https://ysicing.me/blog-k3s-traefik-breakdown/v1)

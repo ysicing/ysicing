@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-03-21 16:05:25`
+每天自动刷新，最近更新时间：`2024-03-22 00:04:57`
 
+*  [出2台国内廉价联通杜甫](https://ysicing.me/dogyun-chongqing-ds/v1)
 *  [唉，数据丢失恢复中](https://ysicing.me/longhorn-k3s-missing/v1)
 *  [测试存储性能指南](https://ysicing.me/test-the-performance-of-storage-devices/v1)
 *  [基于Umami博客近期流量分析](https://ysicing.me/2024-weekly06/v1)
 *  [CodeGPT: 使用 GPT生成Git提交记录](https://ysicing.me/git-codegpt/v1)
 *  [腾讯云轻量云服务器开始IPv6内测](https://ysicing.me/lighthouse-ipv6/v1)
 *  [Traefik全面使用指南：部署篇](https://ysicing.me/traefik/helm-deploy/v1)
-*  [博客入口Traefik升级引发的一系列故障](https://ysicing.me/blog-k3s-traefik-breakdown/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

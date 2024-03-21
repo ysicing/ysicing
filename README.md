@@ -43,7 +43,7 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-03-21 08:17:06`
+每天自动刷新，最近更新时间：`2024-03-21 16:05:25`
 
 *  [唉，数据丢失恢复中](https://ysicing.me/longhorn-k3s-missing/v1)
 *  [测试存储性能指南](https://ysicing.me/test-the-performance-of-storage-devices/v1)

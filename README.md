@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-04-09 16:05:29`
+每天自动刷新，最近更新时间：`2024-04-10 00:04:56`
 
+*  [简单梳理腾讯云0408故障](https://ysicing.me/qcloud-240408/v1)
 *  [群晖DS218+部署开源项目管理软件禅道](https://ysicing.me/zentao-working-nas-dsm7/v1)
 *  [利好200M家宽用户，节前上行提速](https://ysicing.me/bb/yd-t-3328-2023/v1)
 *  [没钱的我遇到被DDOS怎么办指南](https://ysicing.me/fake-ddos/v1)
 *  [群晖DS218+安装 WireGuard 保姆级教程](https://ysicing.me/wireguard-working-nas-dsm7/v1)
 *  [一款丑丑头像生成器](https://ysicing.me/tools/ugly-avatar/v1)
 *  [腾讯云使用内网源加速Rust构建](https://ysicing.me/qcloud-rust-mirrors/v1)
-*  [腾讯云轻量上安装Rust编译realm](https://ysicing.me/qcloud-rust/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

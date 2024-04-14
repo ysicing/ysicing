@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-04-14 08:20:00`
+每天自动刷新，最近更新时间：`2024-04-14 16:37:16`
 
+*  [技术杂谈周刊](https://ysicing.me/weekly/v1)
 *  [老乡鸡开源其菜品溯源报告](https://ysicing.me/laoxj-opensource-traceability-report-of-dishes/v1)
 *  [群晖存储类型应该怎么选？选完还能换吗？](https://ysicing.me/synology_storage_pool_what_is_raid/v1)
 *  [简单梳理腾讯云0408故障](https://ysicing.me/qcloud-240408/v1)
 *  [群晖DS218+部署开源项目管理软件禅道](https://ysicing.me/zentao-working-nas-dsm7/v1)
 *  [利好200M家宽用户，节前上行提速](https://ysicing.me/bb/yd-t-3328-2023/v1)
 *  [没钱的我遇到被DDOS怎么办指南](https://ysicing.me/fake-ddos/v1)
-*  [群晖DS218+安装 WireGuard 保姆级教程](https://ysicing.me/wireguard-working-nas-dsm7/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

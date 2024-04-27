@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-04-27 08:16:20`
+每天自动刷新，最近更新时间：`2024-04-27 16:05:25`
 
+*  [如何使用 CloudFlare Tunnel安全的将内网服务暴露在公网](https://ysicing.me/cloudflare-tunnel-config-access/v1)
 *  [实现字体自由，推荐霞鹜文楷](https://ysicing.me/lxgw/v1)
 *  [不细说GitHook](https://ysicing.me/githook-cheatsheet/v1)
 *  [信创那点事: 自建yum源](https://ysicing.me/miit-mirrors-local-yum/v1)
 *  [上周我发现了什么001](https://ysicing.me/weekly-001/v1)
 *  [技术杂谈周刊](https://ysicing.me/weekly/v1)
 *  [老乡鸡开源其菜品溯源报告](https://ysicing.me/laoxj-opensource-traceability-report-of-dishes/v1)
-*  [群晖存储类型应该怎么选？选完还能换吗？](https://ysicing.me/synology_storage_pool_what_is_raid/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

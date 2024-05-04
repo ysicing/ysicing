@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-05-04 08:16:34`
+每天自动刷新，最近更新时间：`2024-05-04 16:04:52`
 
+*  [使用Docker体验群晖DSM系统](https://ysicing.me/docker-dsm/v1)
 *  [Traefik全面使用指南](https://ysicing.me/traefik/v1)
 *  [Traefik Proxy V3版本正式发布: 支持WebAssem)bly等特性](https://ysicing.me/traefik-proxy-v3-release/v1)
 *  [部署独角数卡-个人自动售货系统](https://ysicing.me/tools/dujiaoka/v1)
 *  [如何使用 CloudFlare Tunnel安全的将内网服务暴露在公网](https://ysicing.me/cloudflare-tunnel-config-access/v1)
 *  [实现字体自由，推荐霞鹜文楷](https://ysicing.me/lxgw/v1)
 *  [不细说GitHook](https://ysicing.me/githook-cheatsheet/v1)
-*  [信创那点事: 自建yum源](https://ysicing.me/miit-mirrors-local-yum/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

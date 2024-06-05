@@ -8,7 +8,7 @@
 ### Hi, I'm 缘生(ysicing) 👋
 
 <!--
-**ysicing/ysicing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 8888
+**ysicing/ysicing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

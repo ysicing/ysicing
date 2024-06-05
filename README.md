@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-06-05 16:21:13`
+每天自动刷新，最近更新时间：`2024-06-05 23:48:38`
 
+*  [内网环境或NAT环境下Caddy基于DNSPOD签发证书](https://ysicing.me/nat-caddy-dnspod/v1)
 *  [使用 Docker 搭建你专属的下载神器: qBittorrent](https://ysicing.me/tools/docker-qbittorrent/v1)
 *  [植物大战僵尸docker版](https://ysicing.me/pvz-docker/v1)
 *  [吐槽通义灵码送的日历](https://ysicing.me/fake-aliyun-calendar/v1)
 *  [群晖服务使用 Cloudflare tunnel进行内网穿透教程](https://ysicing.me/nas-cloudflare-tunnel/v1)
 *  [使用Docker体验群晖DSM系统](https://ysicing.me/docker-dsm/v1)
 *  [Traefik全面使用指南](https://ysicing.me/traefik/v1)
-*  [Traefik Proxy V3版本正式发布: 支持WebAssem)bly等特性](https://ysicing.me/traefik-proxy-v3-release/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

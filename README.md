@@ -43,7 +43,7 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-06-12 16:05:54`
+每天自动刷新，最近更新时间：`2024-06-13 00:04:56`
 
 *  [群晖Docker组件配置镜像加速源](https://ysicing.me/dsm-docker-mirrors/v1)
 *  [内网环境或NAT环境下Caddy基于DNSPOD签发证书](https://ysicing.me/nat-caddy-dnspod/v1)

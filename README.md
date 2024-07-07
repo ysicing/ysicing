@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-07-07 08:20:04`
+每天自动刷新，最近更新时间：`2024-07-07 16:05:21`
 
+*  [git stash常用命令](https://ysicing.me/git-stash-usage/v1)
 *  [利用群晖部署开源密码管理器vaultwarden](https://ysicing.me/nas-vaultwarden/v1)
 *  [k3s新特性分布式注册表镜像，加速镜像拉取](https://ysicing.me/k3s-spegel/v1)
 *  [群晖Docker组件配置镜像加速源](https://ysicing.me/dsm-docker-mirrors/v1)
 *  [内网环境或NAT环境下Caddy基于DNSPOD签发证书](https://ysicing.me/nat-caddy-dnspod/v1)
 *  [使用 Docker 搭建你专属的下载神器: qBittorrent](https://ysicing.me/tools/docker-qbittorrent/v1)
 *  [植物大战僵尸docker版](https://ysicing.me/pvz-docker/v1)
-*  [吐槽通义灵码送的日历](https://ysicing.me/fake-aliyun-calendar/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

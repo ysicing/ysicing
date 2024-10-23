@@ -20,7 +20,7 @@ func init() {
 func main() {
 	result := map[string]interface{}{}
 	response, data, errors := gorequest.New().TLSClientConfig(&tls.Config{InsecureSkipVerify: true}).
-		Get("https://ysicing.me/feed/json").Timeout(15*time.Second).
+		Get("https://blog.ysicing.net/feed/json").Timeout(15*time.Second).
 		Set("User-Agent", "Profile Bot; +https://github.com/ysicing/ysicing").EndStruct(&result)
 	if errors != nil || response.StatusCode > http.StatusBadRequest {
 		logrus.Fatalf("request failed, errors: %v, response: %v, data: %v", errors, response, data)

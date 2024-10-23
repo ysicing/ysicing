@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-10-03 00:05:40`
+每天自动刷新，最近更新时间：`2024-10-23 17:11:55`
 
-*  [Plandex 开源的AI编码引擎初体验](https://ysicing.me/ai-tools-plandex/v1)
-*  [LobeChat知识库版本部署](https://ysicing.me/docker-lobe-chat-pg-vector/v1)
-*  [云原生存储Longhorn升级到1.7，支持定期或按需全量备份特性](https://ysicing.me/k3s/longhorn-upgrade-170/v1)
-*  [最近折腾的那些事之镜像站相关](https://ysicing.me/image-mirror-20240819/v1)
-*  [出手头最后一台国内廉价联通杜甫](https://ysicing.me/dogyun-cqa-ds/v1)
-*  [使用 Docker 部署LobeChat服务端数据库版](https://ysicing.me/docker-lobe-chat-pg/v1)
-*  [k3s集群私有负载均衡的另一种选择Tailscale](https://ysicing.me/k3s-tailscale-loadbalancer/v1)
+*  [RustDesk自建服务器简易教程](https://blog.ysicing.net/tools/rustdesk/v1)
+*  [傻瓜式部署哪吒监控：一步一步教你轻松上手](https://blog.ysicing.net/tools/nezha/v1)
+*  [Plandex 开源的AI编码引擎初体验](https://blog.ysicing.net/ai-tools-plandex/v1)
+*  [LobeChat知识库版本部署](https://blog.ysicing.net/docker-lobe-chat-pg-vector/v1)
+*  [云原生存储Longhorn升级到1.7，支持定期或按需全量备份特性](https://blog.ysicing.net/k3s/longhorn-upgrade-170/v1)
+*  [最近折腾的那些事之镜像站相关](https://blog.ysicing.net/image-mirror-20240819/v1)
+*  [出手头最后一台国内廉价联通杜甫](https://blog.ysicing.net/dogyun-cqa-ds/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

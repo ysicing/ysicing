@@ -43,7 +43,7 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2024-11-28 23:31:21`
+每天自动刷新，最近更新时间：`2024-12-13 08:23:40`
 
 *  [RustDesk自建服务器简易教程](https://blog.ysicing.net/tools/rustdesk/v1)
 *  [傻瓜式部署哪吒监控：一步一步教你轻松上手](https://blog.ysicing.net/tools/nezha/v1)

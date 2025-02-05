@@ -43,7 +43,7 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2025-02-05 22:39:07`
+每天自动刷新，最近更新时间：`2025-02-06 00:06:08`
 
 *  [告别DNS劫持！手把手教你搭建私人DOH服务，上网安全提升300%](https://blog.ysicing.net/go-doh/v1)
 *  [浅谈2025新年贺岁 · 哪吒之魔童闹海](https://blog.ysicing.net/2025-new-year-movies/v1)

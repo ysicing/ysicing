@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2025-02-05 16:06:41`
+每天自动刷新，最近更新时间：`2025-02-05 22:38:34`
 
+*  [告别DNS劫持！手把手教你搭建私人DOH服务，上网安全提升300%](https://blog.ysicing.net/go-doh/v1)
 *  [浅谈2025新年贺岁 · 哪吒之魔童闹海](https://blog.ysicing.net/2025-new-year-movies/v1)
 *  [乙巳蛇年 · 祝大家身体健康，蛇行万里，吉祥如意](https://blog.ysicing.net/happy-2025snake-lunar-new-year/v1)
 *  [旁路由OpenWrt与内网穿透(Tailscale、EasyTier)](https://blog.ysicing.net/openwrt-tailscale-easytier/v1)
 *  [本地k3s集群常见小技巧](https://blog.ysicing.net/k3s-install-tips/v1)
 *  [EasyTier组网续](https://blog.ysicing.net/easytier2/v1)
 *  [异地组网工具新推荐，easytier轻松实现跨地域设备互联](https://blog.ysicing.net/easytier/v1)
-*  [RustDesk自建服务器简易教程](https://blog.ysicing.net/tools/rustdesk/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

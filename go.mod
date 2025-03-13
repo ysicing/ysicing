@@ -1,6 +1,7 @@
 module github.com/ysicing/ysicing
 
 go 1.22.0
+toolchain go1.23.7
 
 require (
 	github.com/parnurzeal/gorequest v0.3.0
@@ -12,6 +13,6 @@ require (
 	github.com/moul/http2curl v1.0.0 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/smartystreets/goconvey v1.8.1 // indirect
-	golang.org/x/net v0.23.0 // indirect
-	golang.org/x/sys v0.18.0 // indirect
+	golang.org/x/net v0.36.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
 )

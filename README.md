@@ -43,15 +43,15 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2025-04-01 08:26:51`
+每天自动刷新，最近更新时间：`2025-04-18 16:25:07`
 
+*  [重磅，Tailscale的Derp服务器原生支持自签发证书](https://blog.ysicing.net/tailscale-derper/v1)
 *  [离线私有化环境部署deepseek之ollama模型缓存](https://blog.ysicing.net/ollama-models-cache/v1)
 *  [告别DNS劫持！手把手教你搭建私人DOH服务，上网安全提升300%](https://blog.ysicing.net/go-doh/v1)
 *  [浅谈2025新年贺岁 · 哪吒之魔童闹海](https://blog.ysicing.net/2025-new-year-movies/v1)
 *  [乙巳蛇年 · 祝大家身体健康，蛇行万里，吉祥如意](https://blog.ysicing.net/happy-2025snake-lunar-new-year/v1)
 *  [旁路由OpenWrt与内网穿透(Tailscale、EasyTier)](https://blog.ysicing.net/openwrt-tailscale-easytier/v1)
 *  [本地k3s集群常见小技巧](https://blog.ysicing.net/k3s-install-tips/v1)
-*  [EasyTier组网续](https://blog.ysicing.net/easytier2/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

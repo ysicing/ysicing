@@ -43,7 +43,7 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期动态
 
-每天自动刷新，最近更新时间：`2025-04-18 16:25:07`
+每天自动刷新，最近更新时间：`2025-04-18 22:12:33`
 
 *  [重磅，Tailscale的Derp服务器原生支持自签发证书](https://blog.ysicing.net/tailscale-derper/v1)
 *  [离线私有化环境部署deepseek之ollama模型缓存](https://blog.ysicing.net/ollama-models-cache/v1)

@@ -27,9 +27,7 @@ func main() {
 	}
 	buf := &bytes.Buffer{}
 	buf.WriteString("\n\n")
-	cstSh, _ := time.LoadLocation("Asia/Shanghai")
-	updated := time.Now().In(cstSh).Format("2006-01-02 15:04:05")
-	buf.WriteString("### 我在[Solitudes](https://ysicing.me)的近期动态\n\n每天自动刷新，最近更新时间：`" + updated + "`\n\n")
+	buf.WriteString("### 我在[Solitudes](https://ysicing.me)的近期文章\n\n")
 	for id, event := range result["items"].([]interface{}) {
 		if id > 6 {
 			break

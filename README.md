@@ -41,9 +41,7 @@ I am too weak. Please help me.</br>
 
 <!--events start -->
 
-### 我在[Solitudes](https://ysicing.me)的近期动态
-
-每天自动刷新，最近更新时间：`2025-04-22 12:59:45`
+### 我在[Solitudes](https://ysicing.me)的近期文章
 
 *  [Cherry Studio：搭建个人知识库的完美助手！](https://blog.ysicing.net/cherry-studio/v1)
 *  [重磅，Tailscale的Derp服务器原生支持自签发证书](https://blog.ysicing.net/tailscale-derper/v1)

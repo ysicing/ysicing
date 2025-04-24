@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [PVE环境折腾之配置DHCP](https://blog.ysicing.net/pve-dhcp/v1)
 *  [快速部署私有微信编辑器](https://blog.ysicing.net/doocs-md/v1)
 *  [Cherry Studio：搭建个人知识库的完美助手！](https://blog.ysicing.net/cherry-studio/v1)
 *  [重磅，Tailscale的Derp服务器原生支持自签发证书](https://blog.ysicing.net/tailscale-derper/v1)
 *  [离线私有化环境部署deepseek之ollama模型缓存](https://blog.ysicing.net/ollama-models-cache/v1)
 *  [告别DNS劫持！手把手教你搭建私人DOH服务，上网安全提升300%](https://blog.ysicing.net/go-doh/v1)
 *  [浅谈2025新年贺岁 · 哪吒之魔童闹海](https://blog.ysicing.net/2025-new-year-movies/v1)
-*  [乙巳蛇年 · 祝大家身体健康，蛇行万里，吉祥如意](https://blog.ysicing.net/happy-2025snake-lunar-new-year/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

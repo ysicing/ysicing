@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [五一大盘大带宽物理服务器活动推荐](https://blog.ysicing.net/51-dedicated-server/v1)
 *  [沉迷塔防的乐趣：推荐Kingdom Rush系列游戏](https://blog.ysicing.net/steam-game-kingdom-rush/v1)
 *  [在群晖上使用 Docker 部署 Proxmox Backup Server](https://blog.ysicing.net/pve-pbs/v1)
 *  [Proxmox VE 添加监控](https://blog.ysicing.net/pve-influxdb/v1)
 *  [PVE环境折腾之配置DHCP](https://blog.ysicing.net/pve-dhcp/v1)
 *  [快速部署私有微信编辑器](https://blog.ysicing.net/doocs-md/v1)
 *  [Cherry Studio：搭建个人知识库的完美助手！](https://blog.ysicing.net/cherry-studio/v1)
-*  [重磅，Tailscale的Derp服务器原生支持自签发证书](https://blog.ysicing.net/tailscale-derper/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

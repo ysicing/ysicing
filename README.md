@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [私有化部署无名杀卡牌游戏](https://blog.ysicing.net/noname/v1)
+*  [Debian常用初始化流程](https://blog.ysicing.net/debian/init/v1)
 *  [Debian 双栈网络时开启 IPv4 优先(音频版)](https://blog.ysicing.net/debian/ipv4-precedence/v1)
 *  [Debian系列教程](https://blog.ysicing.net/debian/v1)
 *  [Debian 12 解决 /etc/rc.local 开机启动问题](https://blog.ysicing.net/debian/rc-local/v1)
 *  [深入浅出 MinIO：身份管理与权限配置实战](https://blog.ysicing.net/minio-custom-policy/v1)
 *  [超简单！5分钟用群晖搭建 MinIO + Caddy 对象存储](https://blog.ysicing.net/tools/caddy-minio/v1)
-*  [五一大盘大带宽物理服务器活动推荐](https://blog.ysicing.net/51-dedicated-server/v1)
-*  [沉迷塔防的乐趣：推荐Kingdom Rush系列游戏](https://blog.ysicing.net/steam-game-kingdom-rush/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

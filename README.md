@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [ImageFlow一款更适合个人使用的图床项目](https://blog.ysicing.net/tools/imageflow/v1)
 *  [FileCodeBox：告别网盘烦恼，安全高效的文件分享神器](https://blog.ysicing.net/tools/filecodebox/v1)
 *  [安利一下我最近写的两个caddy插件](https://blog.ysicing.net/caddy-plugin/v1)
 *  [轻松部署 Alist + MinIO，打造你的专属私人网盘](https://blog.ysicing.net/alist-minio/v1)
 *  [私有化部署无名杀卡牌游戏](https://blog.ysicing.net/noname/v1)
 *  [Debian常用初始化流程](https://blog.ysicing.net/debian/init/v1)
 *  [Debian 双栈网络时开启 IPv4 优先(音频版)](https://blog.ysicing.net/debian/ipv4-precedence/v1)
-*  [Debian系列教程](https://blog.ysicing.net/debian/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

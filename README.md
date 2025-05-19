@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [解锁高效开发利器——Gitness，助力你的DevOps之旅](https://blog.ysicing.net/tools/gitness/v1)
 *  [私有化部署Nexus3镜像源](https://blog.ysicing.net/tools/nexus3/v1)
 *  [Nexus3 容器部署3.70.x升级实践-非成功案例](https://blog.ysicing.net/docker-nexus-upgrade-370/v1)
 *  [Caddy拦截响应处理小记](https://blog.ysicing.net/caddy-minio-400/v1)
 *  [CodeBuddy腾讯云代码助手初体验](https://blog.ysicing.net/copilot/codebuddy/v1)
 *  [ImageFlow一款更适合个人使用的图床项目](https://blog.ysicing.net/tools/imageflow/v1)
 *  [FileCodeBox：告别网盘烦恼，安全高效的文件分享神器](https://blog.ysicing.net/tools/filecodebox/v1)
-*  [安利一下我最近写的两个caddy插件](https://blog.ysicing.net/caddy-plugin/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

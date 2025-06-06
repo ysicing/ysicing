@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [FFmpeg常用命令备份](https://blog.ysicing.net/ffmpeg/v1)
 *  [MinIO最新社区版砍掉 Web 管理功能](https://blog.ysicing.net/minio-2025-5-24/v1)
 *  [值得入手的Steam模拟类神作：缺氧（Oxygen Not Included）](https://blog.ysicing.net/steam/oxygen-not-included/v1)
 *  [轻松管理K3s集群服务：System Upgrade Controller 的超实用指南](https://blog.ysicing.net/k3s/system-upgrade-controller/v1)
 *  [Raphael AI图片生成器：释放创意，零门槛打造惊艳视觉盛宴](https://blog.ysicing.net/recommend/raphael-app/v1)
 *  [Google新AI产品无法使用解决指南](https://blog.ysicing.net/fake-google-ai/v1)
 *  [Drawnix：无限画布上的开源白板工具](https://blog.ysicing.net/tools/drawnix/v1)
-*  [解锁高效开发利器——Gitness，助力你的DevOps之旅](https://blog.ysicing.net/tools/gitness/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

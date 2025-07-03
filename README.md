@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [发现轻量写作新宠：Ech0，记录灵感的最佳选择](https://blog.ysicing.net/tools/ech0/v1)
 *  [探索 Kite：现代化轻量级 Kubernetes Dashboard，助力 DevOps 高效管理集群](https://blog.ysicing.net/tools/kite/v1)
 *  [解锁Kubernetes高效管理神器——k8m，让集群运维更简单](https://blog.ysicing.net/tools/k8m/v1)
 *  [轻松部署 Artifactory(不推荐款)](https://blog.ysicing.net/tools/artifactory/v1)
 *  [FFmpeg常用命令备份](https://blog.ysicing.net/ffmpeg/v1)
 *  [MinIO最新社区版砍掉 Web 管理功能](https://blog.ysicing.net/minio-2025-5-24/v1)
 *  [值得入手的Steam模拟类神作：缺氧（Oxygen Not Included）](https://blog.ysicing.net/steam/oxygen-not-included/v1)
-*  [轻松管理K3s集群服务：System Upgrade Controller 的超实用指南](https://blog.ysicing.net/k3s/system-upgrade-controller/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

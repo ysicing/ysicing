@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [Claude Code之Statusline小工具 大用处](https://blog.ysicing.net/claude-code/statusline/v1)
 *  [Claude Code 多智能体工作流系统：从手动敲代码到AI自动化, 开发效率直接起飞！](https://blog.ysicing.net/ai/code-pilot/v1)
 *  [Debian 12 Bookworm 升级 Debian 13 Trixie](https://blog.ysicing.net/posts/debian-12-upgrade-13/v1)
 *  [使用 LiteLLM 自建 Claude Code 中转服务](https://blog.ysicing.net/tools/litellm-gateway/v1)
 *  [安利神器：Claude Code Router](https://blog.ysicing.net/tools/claude-code-router/v1)
 *  [解锁知识管理新体验：安利 AI 驱动的 Wiki 知识库 PandaWiki](https://blog.ysicing.net/tools/pandawiki/v1)
 *  [Code Agent初体验：Kilo Code + Qwen3-Coder](https://blog.ysicing.net/kilo-code-qwen3-coder/v1)
-*  [Kite+魔改版Kubernetes Dashboard安利，足够轻量个性化](https://blog.ysicing.net/github/kite/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

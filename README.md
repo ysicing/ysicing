@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
-*  [GitHub Spec Kit 与 Claude 4.5那点事](https://blog.ysicing.net/ai-github-spec-kit-and-claude-code-v2/v1)
-*  [ClaudeCode和Codex的MCP有趣玩法](https://blog.ysicing.net/ai/claude-code-codex-map/v1)
-*  [物语云/Zouter 香港存储型VPS 小测](https://blog.ysicing.net/vps/zouter/v1)
-*  [PVE9与k3s那点事:深夜填坑记,搞定AppArmor](https://blog.ysicing.net/pve9-apparmor/v1)
-*  [Claude Code之Statusline小工具 大用处](https://blog.ysicing.net/claude-code/statusline/v1)
-*  [Claude Code 多智能体工作流系统：从手动敲代码到AI自动化, 开发效率直接起飞！](https://blog.ysicing.net/ai/code-pilot/v1)
-*  [Debian 12 Bookworm 升级 Debian 13 Trixie](https://blog.ysicing.net/posts/debian-12-upgrade-13/v1)
+*  [Umami 升级提醒：尽快更新以修复 Next.js CVE-2025-66478 漏洞](https://blog.ysicing.net/umami-cve/v1)
+*  [出一台闲置的物理服务器](https://blog.ysicing.net/sale-wuyuidc-dedicated-servers/v1)
+*  [k8s免密拉取镜像实践](https://blog.ysicing.net/k8s-sa-imagepullsecrets/v1)
+*  [Z-Image-Turbo，快就完事了](https://blog.ysicing.net/z-image-turbo/v1)
+*  [Debian/Ubuntu 默认禁用 SSH RSA 密钥？一篇文章教你彻底解决](https://blog.ysicing.net/openssh-disable-rsa/v1)
+*  [从零到上架：VS Code 扩展如何发布到 VS Code Marketplace 和 Open VSX](https://blog.ysicing.net/vscode-gitspace/v1)
+*  [轻松搭出属于你的 AI 网关：5 分钟搞定 NewAPI 上云](https://blog.ysicing.net/tools/k8s-newapi/v1)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

@@ -22,7 +22,7 @@ jobs:
           check-latest: true
       - name: Fetch events
         run: go run main.go
-      - uses: peter-evans/create-pull-request@v7
+      - uses: peter-evans/create-pull-request@v8
         id: cpr
         with:
           title: 'Update events'

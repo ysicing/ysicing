@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
-*  [告别屎山代码!我如何用code-simplifier + code-review将代码审查效率提升200%](https://blog.ysicing.net/code-review-efficiency-boost/v1)
-*  [2025年终不总结](https://blog.ysicing.net/hello-2026/v1)
-*  [使用Let's Encrypt 签发的 IP 地址 SSL 证书](https://blog.ysicing.net/ip-ssl/v1)
-*  [MinIO迁移RustFS实战指南一](https://blog.ysicing.net/minio-to-rustfs-guide/v1)
-*  [Tailscale Peer Relay 最新变更解读](https://blog.ysicing.net/tailscale-relays-static-endpoints/v1)
-*  [Umami 升级提醒：尽快更新以修复 Next.js CVE-2025-66478 漏洞](https://blog.ysicing.net/umami-cve/v1)
-*  [出一台闲置的物理服务器](https://blog.ysicing.net/sale-wuyuidc-dedicated-servers/v1)
+*  [告别屎山代码!我如何用code-simplifier + code-review将代码审查效率提升200%](https://blog.ysicing.net/code-review-efficiency-boost)
+*  [2025年终不总结](https://blog.ysicing.net/hello-2026)
+*  [使用Let's Encrypt 签发的 IP 地址 SSL 证书](https://blog.ysicing.net/ip-ssl)
+*  [MinIO迁移RustFS实战指南一](https://blog.ysicing.net/minio-to-rustfs-guide)
+*  [Tailscale Peer Relay 最新变更解读](https://blog.ysicing.net/tailscale-relays-static-endpoints)
+*  [Umami 升级提醒：尽快更新以修复 Next.js CVE-2025-66478 漏洞](https://blog.ysicing.net/umami-cve)
+*  [出一台闲置的物理服务器](https://blog.ysicing.net/sale-wuyuidc-dedicated-servers)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 

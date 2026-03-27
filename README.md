@@ -43,13 +43,13 @@ I am too weak. Please help me.</br>
 
 ### 我在[Solitudes](https://ysicing.me)的近期文章
 
+*  [龙虾哥浏览器操控教程：QClaw让直接用你的浏览器](https://blog.ysicing.net/qclaw-chrome)
 *  [让AI先出原型再写代码，这是我用过最舒服的前端开发方式](https://blog.ysicing.net/ai-skills-superpowers-brainstorming)
 *  [安利两个Claude Code技能](https://blog.ysicing.net/claude-code-two-skills)
 *  [简单记录一下杜甫折腾ipv6踩坑版](https://blog.ysicing.net/pve-ipv6)
 *  [用 Tailscale 安全访问龙虾哥 OpenClaw 控制台](https://blog.ysicing.net/openclaw-tailscale)
 *  [丙午马年 · 祝大家身体健康，马到成功，万事如意](https://blog.ysicing.net/happy-2026horse-lunar-new-year)
 *  [出一台hk物理服务器](https://blog.ysicing.net/sale-dogyun-dedicated-servers)
-*  [告别屎山代码!我如何用code-simplifier + code-review将代码审查效率提升200%](https://blog.ysicing.net/code-review-efficiency-boost)
 *  [随便看看, 随机推荐](https://ysicing.me/random/)
 
 
